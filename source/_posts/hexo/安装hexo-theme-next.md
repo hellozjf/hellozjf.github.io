@@ -1,14 +1,10 @@
----
-categories:
-  - hexo
----
 # 目的
 
 安装hexo-theme-next，美化hexo界面。
 
 # 前置知识
 
-安装hexo。
+[安装hexo](http://localhost:4000/2019/08/10/hexo/%E5%AE%89%E8%A3%85hexo/)。
 
 # 步骤
 

@@ -1,14 +1,10 @@
----
-categories:
-  - hexo
----
 # 目的
 
 从零安装hexo博客框架。
 
 # 前置知识
 
-安装nodejs。
+[安装nodejs](http://localhost:4000/2019/08/10/nodejs/%E5%AE%89%E8%A3%85nodejs/)。
 
 # 步骤
 

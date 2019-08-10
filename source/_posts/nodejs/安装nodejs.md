@@ -1,7 +1,3 @@
----
-categories:
-  - nodejs
----
 # 目的
 
 从零安装nodejs。
